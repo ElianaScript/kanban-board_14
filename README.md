@@ -13,7 +13,7 @@ This site can be used to put employees into a database using a jwt token, and se
 @ElianaScript
 
 # License
-Distributed under the MIT License. See LICENSE for more information.
+Distributed under the MIT license. See [LICENSE](LICENSE) for more information.
 
 
 
