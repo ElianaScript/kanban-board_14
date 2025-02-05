@@ -10,10 +10,10 @@ In order to clone this repo onto your local machine, use 'git clone <https://git
 This site can be used to put employees into a database using a jwt token, and sequelize PostegreSQL by logging in through a username and password. Then the employees are able to access the board in which it displays different work tasks to be completed.
 
 # Contributors 
-Eliana Liantonio ~ @ElianaScript
+@ElianaScript
 
 # License
-Distributed under the MIT License. See LICENSE.txt for more information.
+Distributed under the MIT License. See LICENSE for more information.
 
 
 
